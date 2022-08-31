@@ -30,11 +30,11 @@ Transform Together is taking place throughout the Garden Studio. Please refer to
 Please ask instructors or TAs for SSID/PW for Wi-Fi 
 Opening Slide also contains the information
 
-### Drinks & Networking/Office Hours
-Coffee break is scheduled during the session and there will be a happy hour to networking/office hours after the Superclass.
+### Coffee break & Networking/Office Hours
+Coffee break is scheduled during the session and there will be a happy hour for networking/office hours after the Superclass.
 
 ## Event Swag
-Be sure to fill out the survey and grab TwilioQuest t-shirts before you go! There are candies & pins available to pick with t-shirts. The numbers and sizes are limited.
+Be sure to fill out [the survey](https://forms.gle/LmQRkughBy8UxEHb8) and grab TwilioQuest t-shirts before you go! There are candies & pins available to pick with t-shirts. The numbers and sizes are limited.
 
 
 ## Hands-On Activities
@@ -49,48 +49,48 @@ If you do not have a Twilio Account. That is your first activity.
 Here’s what’s on the menu.
 
 ### For Beginners, Game Enthusiasts - Play TwilioQuest, our Educational PC Game
-New to Twilio? [Download and play TwilioQuest](https://www.twilio.com/quest/download), our educational PC game for Mac, Windows, and Linux. TwilioQuest contains entry-level content to help explore Twilio APIs in the “VR training” area of the game. Your instructor has (or will soon!) show quickly how TwilioQuest works and where this content can be found. 
+New to Twilio? [Download and play TwilioQuest](https://www.twilio.com/quest/download?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj), our educational PC game for Mac, Windows, and Linux. TwilioQuest contains entry-level content to help explore Twilio APIs in the “VR training” area of the game. Your instructor has (or will soon!) show quickly how TwilioQuest works and where this content can be found. 
 
 
 ### Deploy CodeExchange Applications
-If you’ve used Twilio in the past, chances are you’ve only used one or two different products. If you’ve only sent text messages before, then you don’t know Twilio. One of the best ways to get exposed to new Twilio capabilities is to deploy and test out a sample application on the [Twilio CodeExchange](https://www.twilio.com/code-exchange). Choose a sample application from this repository, and get it running on your own Twilio account.
+If you’ve used Twilio in the past, chances are you’ve only used one or two different products. If you’ve only sent text messages before, then you don’t know Twilio. One of the best ways to get exposed to new Twilio capabilities is to deploy and test out a sample application on the [Twilio CodeExchange](https://www.twilio.com/code-exchange?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj). Choose a sample application from this repository, and get it running on your own Twilio account.
 
 Here are some options for CodeExchange apps to check out, broken down by product:
 
 #### Twilio Messaging - SMS, WhatsApp
 - 🗣  [SIGNAL Programmable Messaging talks](https://signal.twilio.com/sessions?productFamily=Messaging)  
-- 💻  [CodeExchange - SMS and WhatsApp](https://www.twilio.com/code-exchange?q=&f=sms&f=whatsapp)  
-- 📚  [SMS Tutorials - Twilio docs](https://www.twilio.com/docs/tutorials?filter-product=SMS)
+- 💻  [CodeExchange - SMS and WhatsApp](https://www.twilio.com/code-exchange?q=&f=sms&f=whatsapp&utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
+- 📚  [SMS Tutorials - Twilio docs](https://www.twilio.com/docs/tutorials?filter-product=SMS&utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)
 
 #### Twilio Runtime, Studio, and Serverless
-- 📚 [TwiML Bins tutorial -Twilio docs](https://www.twilio.com/docs/runtime/tutorials/twiml-bins)  
-- 📚 [Twilio Runtime - Twilio docs](https://www.twilio.com/docs/runtime)  
-- 📚 [Understanding Function & Asset Visibility - Twilio Docs](https://www.twilio.com/docs/runtime/functions-assets-api/api/understanding-visibility-public-private-and-protected-functions-and-assets)  
-- 📚 [Twilio Studio - Twilio docs](https://www.twilio.com/docs/studio)  
+- 📚 [TwiML Bins tutorial -Twilio docs](https://www.twilio.com/docs/runtime/tutorials/twiml-bins?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
+- 📚 [Twilio Runtime - Twilio docs](https://www.twilio.com/docs/runtime?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
+- 📚 [Understanding Function & Asset Visibility - Twilio Docs](https://www.twilio.com/docs/runtime/functions-assets-api/api/understanding-visibility-public-private-and-protected-functions-and-assets?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
+- 📚 [Twilio Studio - Twilio docs](https://www.twilio.com/docs/studio?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
 - 🗣 [Twilio Studio Guided Tutorial](https://www.youtube.com/watch?v=14FXnUgrZ6w)  
 - 🗣 [Messaging, Voice & Runtime Tutorial](https://youtu.be/4jUMqutYmyE)
 
 #### Twilio Video
 - 🗣  [SIGNAL Programmable Video talks](https://signal.twilio.com/sessions?productFamily=Video)
-- 💻  [CodeExchange - Programmable Video](https://www.twilio.com/code-exchange?q=&f=video)
+- 💻  [CodeExchange - Programmable Video](https://www.twilio.com/code-exchange?q=&f=video&utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)
 
 #### Twilio Voice
-- 🗣  [SIGNAL Voice talks](https://www.twilio.com/docs/tutorials?filter-product=SMS)  
-- 💻  [CodeExchange - Voice](https://www.twilio.com/docs/tutorials?filter-product=SMS)  
-- 📚  [Voice Tutorials - Twilio docs](https://www.twilio.com/docs/tutorials?filter-product=SMS)
+- 🗣  [SIGNAL Voice talks](https://signal.twilio.com/sessions?productFamily=Voice)  
+- 💻  [CodeExchange - Voice](https://www.twilio.com/code-exchange?q=&f=voice&utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
+- 📚  [Voice Tutorials - Twilio docs](https://www.twilio.com/docs/tutorials?filter-product=Voice&utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)
 
 #### Twilio Flex
 - 🗣  [SIGNAL Flex talks](https://signal.twilio.com/sessions?productFamily=Flex)  
-- 💻  [CodeExchange - Flex](https://www.twilio.com/code-exchange?q=&f=flex)  
-- 📚 [Twilio Flex - Twilio Docs](https://www.twilio.com/docs/flex)  
+- 💻  [CodeExchange - Flex](https://www.twilio.com/code-exchange?q=&f=flex&utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
+- 📚 [Twilio Flex - Twilio Docs](https://www.twilio.com/docs/flex?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
 - 💪 [Flexercises](https://twilio.learnupon.com/store)
 
 
 ### Twilio Verify
 - 🗣  [SIGNAL Account Security talks](https://signal.twilio.com/sessions?productFamily=AccountSecurity)  
-- 💻  [CodeExchange - Broadcast SMS with Verified Sign Up](https://www.twilio.com/code-exchange/verified-broadcast-sms)  
-- ✍️  [Build an SMS notification service with a verified sign up page](https://www.twilio.com/blog/verified-sms-broadcast-service-low-code)  
-- 💻  [CodeExchange - more Verify API examples](https://www.twilio.com/code-exchange?q=&f=verify)  
+- 💻  [CodeExchange - Broadcast SMS with Verified Sign Up](https://www.twilio.com/code-exchange/broadcast-sms-messages-to-subscribers?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
+- ✍️  [Build an SMS notification service with a verified sign up page](https://www.twilio.com/blog/verified-sms-broadcast-service-low-code?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
+- 💻  [CodeExchange - more Verify API examples](https://www.twilio.com/code-exchange?q=&f=verify&utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
 
 
 
