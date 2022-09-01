@@ -18,7 +18,7 @@ Here’s how we’ll be spending our day together.
 |  14:00 - 14:20 |  <b>Superclass Kickoff</b><br><br>Meet the Superclass instructors, and TAs. Take in a high-level tour of the Twilio platform through an interactive live code demo. Learn about how you can build with Twilio today.  |
 |  14:20 - 15:00  | <b>Hands-On Activities / Office Hours</b><br><br>Choose your own adventure from among the hands-on activities, or grab a Twilion to talk through your own questions.|
 |  15:00 - 15:40  |  <b>Building with Twilio API for WhatsApp</b><br><br>  |
-|  15:40 - 16:15  |  <b>Hands-On Activities / Office Hours & Coffee breaks</b><br><br>Choose your own adventure from among the hands-on activities, or grab a Twilion to talk through your own questions. Coffees will be served at 16:00 |
+|  15:40 - 16:15  |  <b>Hands-On Activities / Office Hours & Coffee breaks</b><br><br>Choose your own adventure from among the hands-on activities, or grab a Twilion to talk through your own questions.  |
 |  16:15 - 16:35  |  <b>Building amazing Video experiences for your users</b>  |
 |  16:35 - 16:45  |  <b>Superclass Closing ceremony</b>  |
 |  16:45 - 18:45  |  <b>Networking/Office Hours</b>  |
