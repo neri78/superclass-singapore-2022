@@ -97,6 +97,9 @@ Here are some options for CodeExchange apps to check out, broken down by product
 ### Set up 1:1 Office Hours with Twilions
 Did you come to Superclass with a specific use case you wanted to build, or a question you wanted to get answered? Take advantage of this dedicated time with Twilions to pull one aside, and ask any questions that you might have, about anything under the sun.
 
+### Twilio Dev-Phone
+It might be hard to purchase a Twilio Phone number for certain countries. You can use [Twilio Dev Phone](https://www.twilio.com/docs/labs/dev-phone) with a US Pohone number to test calls, messages. If you decide to use the Twilio Dev Phone. We reccomend you to upgrade the Twilio account to purchase more than 1 Twilio Phone number (1 for Dev Phone, 1 for a Twilio application). Contact with instructors, TAs for promo code.
+
 
 ## Superclass Feedback
 We’d love your thoughts on how today’s class went. Show your [completed survey](https://forms.gle/LmQRkughBy8UxEHb8) in exchange for a TwilioQuest Shirt! 
