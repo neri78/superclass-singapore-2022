@@ -12,22 +12,22 @@ Reminder that there is an [Code of Conduct](https://twil.io/superclass-coc) in p
 
 Here’s how we’ll be spending our day together.
 
-|  Time  |  Activity  |
-| ------ | ---- |
-|  13:30 - 14:00  |  Registration  |
-|  14:00 - 14:20 |  <b>Superclass Kickoff</b><br><br>Meet the Superclass instructors, and TAs. Take in a high-level tour of the Twilio platform through an interactive live code demo. Learn about how you can build with Twilio today.  |
-|  14:20 - 15:00  | <b>Hands-On Activities / Office Hours</b><br><br>Choose your own adventure from among the hands-on activities, or grab a Twilion to talk through your own questions.|
-|  15:00 - 15:40  |  <b>Building with Twilio API for WhatsApp</b><br><br>  |
-|  15:40 - 16:15  |  <b>Hands-On Activities / Office Hours & Coffee breaks</b><br><br>Choose your own adventure from among the hands-on activities, or grab a Twilion to talk through your own questions.  |
-|  16:15 - 16:35  |  <b>Building amazing Video experiences for your users</b>  |
-|  16:35 - 16:45  |  <b>Superclass Closing ceremony</b>  |
-|  16:45 - 18:45  |  <b>Networking/Office Hours</b>  |
+| Time          | Activity                                                                                                                                                                                                                                                                                                   |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 13:30 - 14:00 | Registration                                                                                                                                                                                                                                                                                               |
+| 14:00 - 14:20 | <b>Superclass Kickoff</b><br><br>Meet the Superclass instructors, and TAs. Take in a high-level tour of the Twilio platform through an interactive live code demo. Learn about how you can build with Twilio today.                                                                                        |
+| 14:20 - 15:00 | <b>Hands-On Activities / Office Hours</b><br><br>Choose your own adventure from among the hands-on activities, or grab a Twilion to talk through your own questions.                                                                                                                                       |
+| 15:00 - 15:40 | <b>Building with Twilio API for WhatsApp</b><br><br>                                                                                                                                                                                                                                                       |
+| 15:40 - 16:15 | <b>Hands-On Activities / Office Hours & Coffee breaks</b><br><br>Choose your own adventure from among the hands-on activities, or grab a Twilion to talk through your own questions.                                                                                                                       |
+| 16:15 - 16:35 | <b>Building amazing Video experiences for your users</b><ul><li>[Get the slides](https://docs.google.com/presentation/d/1_jgomL12tqlxGmjdFuBlfxl84jJpBLdlEdtGKiff0AI/edit?usp=sharing)</li><li>[Check out the source code of the example app](https://github.com/philnash/advanced-twilio-video)</li></ul> |
+| 16:35 - 16:45 | <b>Superclass Closing ceremony</b>                                                                                                                                                                                                                                                                         |
+| 16:45 - 18:45 | <b>Networking/Office Hours</b>                                                                                                                                                                                                                                                                             |
 
 ## Venue and Logistics
 Transform Together is taking place throughout the Garden Studio. Please refer to the onsite signage to find your way around. Event staff are located throughout the venue to provide directions.
 
 ### Connecting Wi-Fi
-Please ask instructors or TAs for SSID/PW for Wi-Fi 
+Please ask instructors or TAs for SSID/PW for Wi-Fi
 Opening Slide also contains the information
 
 ### Coffee break & Networking/Office Hours
@@ -49,7 +49,7 @@ If you do not have a Twilio Account. That is your first activity.
 Here’s what’s on the menu.
 
 ### For Beginners, Game Enthusiasts - Play TwilioQuest, our Educational PC Game
-New to Twilio? [Download and play TwilioQuest](https://www.twilio.com/quest/download?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj), our educational PC game for Mac, Windows, and Linux. TwilioQuest contains entry-level content to help explore Twilio APIs in the “VR training” area of the game. Your instructor has (or will soon!) show quickly how TwilioQuest works and where this content can be found. 
+New to Twilio? [Download and play TwilioQuest](https://www.twilio.com/quest/download?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj), our educational PC game for Mac, Windows, and Linux. TwilioQuest contains entry-level content to help explore Twilio APIs in the “VR training” area of the game. Your instructor has (or will soon!) show quickly how TwilioQuest works and where this content can be found.
 
 
 ### Deploy CodeExchange Applications
@@ -58,16 +58,16 @@ If you’ve used Twilio in the past, chances are you’ve only used one or two d
 Here are some options for CodeExchange apps to check out, broken down by product:
 
 #### Twilio Messaging - SMS, WhatsApp
-- 🗣  [SIGNAL Programmable Messaging talks](https://signal.twilio.com/sessions?productFamily=Messaging)  
-- 💻  [CodeExchange - SMS and WhatsApp](https://www.twilio.com/code-exchange?q=&f=sms&f=whatsapp&utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
+- 🗣  [SIGNAL Programmable Messaging talks](https://signal.twilio.com/sessions?productFamily=Messaging)
+- 💻  [CodeExchange - SMS and WhatsApp](https://www.twilio.com/code-exchange?q=&f=sms&f=whatsapp&utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)
 - 📚  [SMS Tutorials - Twilio docs](https://www.twilio.com/docs/tutorials?filter-product=SMS&utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)
 
 #### Twilio Runtime, Studio, and Serverless
-- 📚 [TwiML Bins tutorial -Twilio docs](https://www.twilio.com/docs/runtime/tutorials/twiml-bins?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
-- 📚 [Twilio Runtime - Twilio docs](https://www.twilio.com/docs/runtime?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
-- 📚 [Understanding Function & Asset Visibility - Twilio Docs](https://www.twilio.com/docs/runtime/functions-assets-api/api/understanding-visibility-public-private-and-protected-functions-and-assets?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
-- 📚 [Twilio Studio - Twilio docs](https://www.twilio.com/docs/studio?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
-- 🗣 [Twilio Studio Guided Tutorial](https://www.youtube.com/watch?v=14FXnUgrZ6w)  
+- 📚 [TwiML Bins tutorial -Twilio docs](https://www.twilio.com/docs/runtime/tutorials/twiml-bins?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)
+- 📚 [Twilio Runtime - Twilio docs](https://www.twilio.com/docs/runtime?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)
+- 📚 [Understanding Function & Asset Visibility - Twilio Docs](https://www.twilio.com/docs/runtime/functions-assets-api/api/understanding-visibility-public-private-and-protected-functions-and-assets?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)
+- 📚 [Twilio Studio - Twilio docs](https://www.twilio.com/docs/studio?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)
+- 🗣 [Twilio Studio Guided Tutorial](https://www.youtube.com/watch?v=14FXnUgrZ6w)
 - 🗣 [Messaging, Voice & Runtime Tutorial](https://youtu.be/4jUMqutYmyE)
 
 #### Twilio Video
@@ -75,22 +75,22 @@ Here are some options for CodeExchange apps to check out, broken down by product
 - 💻  [CodeExchange - Programmable Video](https://www.twilio.com/code-exchange?q=&f=video&utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)
 
 #### Twilio Voice
-- 🗣  [SIGNAL Voice talks](https://signal.twilio.com/sessions?productFamily=Voice)  
-- 💻  [CodeExchange - Voice](https://www.twilio.com/code-exchange?q=&f=voice&utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
+- 🗣  [SIGNAL Voice talks](https://signal.twilio.com/sessions?productFamily=Voice)
+- 💻  [CodeExchange - Voice](https://www.twilio.com/code-exchange?q=&f=voice&utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)
 - 📚  [Voice Tutorials - Twilio docs](https://www.twilio.com/docs/tutorials?filter-product=Voice&utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)
 
 #### Twilio Flex
-- 🗣  [SIGNAL Flex talks](https://signal.twilio.com/sessions?productFamily=Flex)  
-- 💻  [CodeExchange - Flex](https://www.twilio.com/code-exchange?q=&f=flex&utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
-- 📚 [Twilio Flex - Twilio Docs](https://www.twilio.com/docs/flex?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
+- 🗣  [SIGNAL Flex talks](https://signal.twilio.com/sessions?productFamily=Flex)
+- 💻  [CodeExchange - Flex](https://www.twilio.com/code-exchange?q=&f=flex&utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)
+- 📚 [Twilio Flex - Twilio Docs](https://www.twilio.com/docs/flex?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)
 - 💪 [Flexercises](https://twilio.learnupon.com/store)
 
 
 ### Twilio Verify
-- 🗣  [SIGNAL Account Security talks](https://signal.twilio.com/sessions?productFamily=AccountSecurity)  
-- 💻  [CodeExchange - Broadcast SMS with Verified Sign Up](https://www.twilio.com/code-exchange/broadcast-sms-messages-to-subscribers?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
-- ✍️  [Build an SMS notification service with a verified sign up page](https://www.twilio.com/blog/verified-sms-broadcast-service-low-code?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
-- 💻  [CodeExchange - more Verify API examples](https://www.twilio.com/code-exchange?q=&f=verify&utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)  
+- 🗣  [SIGNAL Account Security talks](https://signal.twilio.com/sessions?productFamily=AccountSecurity)
+- 💻  [CodeExchange - Broadcast SMS with Verified Sign Up](https://www.twilio.com/code-exchange/broadcast-sms-messages-to-subscribers?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)
+- ✍️  [Build an SMS notification service with a verified sign up page](https://www.twilio.com/blog/verified-sms-broadcast-service-low-code?utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)
+- 💻  [CodeExchange - more Verify API examples](https://www.twilio.com/code-exchange?q=&f=verify&utm_source=twilio&utm_medium=superclass&utm_campaign=event_transform_2022_09_01_singapore_apj&utm_term=devnet_apj)
 
 
 
@@ -102,6 +102,6 @@ It might be hard to purchase a Twilio Phone number for certain countries. You ca
 
 
 ## Superclass Feedback
-We’d love your thoughts on how today’s class went. Show your [completed survey](https://forms.gle/LmQRkughBy8UxEHb8) in exchange for a TwilioQuest Shirt! 
+We’d love your thoughts on how today’s class went. Show your [completed survey](https://forms.gle/LmQRkughBy8UxEHb8) in exchange for a TwilioQuest Shirt!
 
 
