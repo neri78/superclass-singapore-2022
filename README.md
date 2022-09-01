@@ -39,7 +39,7 @@ Be sure to fill out [the survey](https://forms.gle/LmQRkughBy8UxEHb8) and grab T
 
 ## Hands-On Activities
 
-During the unstructured time in between presentations from the Twilio team, we encourage you to choose your own adventure and take on one (or all!) of the hands-on activities below, depending on your own goals for Superclass. While knowledge is its own reward, it’s not the only one you’ll gain from completing these activities. Every hands-on activity you complete during Superclass improves your chances of winning a super-sweet prize in a drawing at the end of Superclass!
+During the unstructured time in between presentations from the Twilio team, we encourage you to choose your own adventure and take on one (or all!) of the hands-on activities below, depending on your own goals for Superclass. 
 
 If you do not have a Twilio Account. That is your first activity.
 
